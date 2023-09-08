@@ -1,6 +1,6 @@
 # Zephyr File System Module Application
 
-A simple application that uses the file system module (fs-module).
+A simple application that uses the [file system module (fs-module)](https://github.com/borrelunde/zephyr-fs-module).
 
 # Building
 
